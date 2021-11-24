@@ -1,0 +1,103 @@
+<html>
+ 
+<head>
+
+<link rel="stylesheet" type="text/css" href="stylesheet2.css">
+
+<title> The ADDIE Model </title>
+    
+  </head>
+
+
+  <body>
+
+
+<div class="container">
+
+<div class="heading">
+
+<h2>The ADDIE Model </h2> 
+<span>The ultimate learning designer guide</span>
+
+</div> 
+
+<div class="row">
+      <div class="card">
+        <div class="card-header">
+          <h1> <u>A</u>nalysis</h1>
+        </div>
+        <div class="card-body">
+          <p>
+            This is the first step of the ADDIE model and relates to the analysis of the learners' needs and the goals to be reached.
+          </p>
+          <a href="file:///C:/Users/clair/Downloads/analysis2.htm" class="btn">Let's go</a>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <h1> <u>D</u>esign</h1>
+        </div>
+        <div class="card-body">
+          <p>
+            This is the second step of the ADDIE model: to create the learning guidelines, the stages, and the tools to be used.
+          </p>
+          <a href="file:///C:/Users/clair/Downloads/designphase.htm" class="btn">Let's go</a>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <h1> <u>D</u>evelopment</h1>
+        </div>
+        <div class="card-body">
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi neque molestiae eius explicabo mollitia tempore reiciendis, vel, sequi.
+          </p>
+          <a href="file:///C:/Users/clair/Downloads/developmentphase.htm" class="btn">Let's go</a>
+        </div>
+      </div>
+
+
+      <div class="card">
+        <div class="card-header">
+          <h1> <u>I</u>mplementation</h1>
+        </div>
+        <div class="card-body">
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi neque molestiae eius explicabo mollitia tempore reiciendis, vel, sequi.
+          </p>
+          <a href="#" class="btn">Let's go</a>
+        </div>
+      </div>
+
+ <div class="card">
+        <div class="card-header">
+          <h1><u>E</u>valuation</h1>
+        </div>
+        <div class="card-body">
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi neque molestiae eius explicabo mollitia tempore reiciendis, vel, sequi.
+          </p>
+          <a href="#" class="btn">Let's go</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+<div class="ending">
+
+<span2>Master 2 MEEF - CRN
+<p> Claire FRERET </p>
+</span2>
+
+</div> 
+
+</div> 
+
+
+
+</body>
+
+</html>
